@@ -1,0 +1,24 @@
+h3 {
+  color: rgb(0, 81, 255);
+  font-style: oblique;
+  text-align: center;
+}
+
+.skills-header {
+  text-align: left;
+}
+
+.skills-cont {
+  border: solid brown;
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.link {
+  margin-top: 100px;
+  text-align: center;
+}
